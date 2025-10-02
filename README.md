@@ -59,7 +59,7 @@ This project demonstrates how **data analytics + visualization** can transform r
 ---
 
 ## 🔗 Live Dashboard
-[View on Power BI Service](https://app.powerbi.com/links/3gCDlh4_Em?ctid=42c2c4a4-7211-4a04-a598-a27d5ab32681&pbi_source=linkShare)
+[View on Power BI Service](https://app.powerbi.com/groups/4db971b5-501c-46e3-898a-1fa1a293fb1b/reports/f5eb12b2-fa2c-4a1f-81ce-6e6d0ab94d07?ctid=42c2c4a4-7211-4a04-a598-a27d5ab32681&pbi_source=linkShare)
 
 ---
 
